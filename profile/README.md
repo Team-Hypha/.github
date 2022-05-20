@@ -11,7 +11,7 @@ Hypha's simple yet powerful UI allows users to move between logs and traces, giv
 ![Screenshot of Hypha's UI showing traces and logs](https://github.com/Team-Hypha/hypha-website/blob/main/src/images/screenshots/trace-and-logs.png)
 
 ## Learn more
-[Read the case study](httsp://teamhypha.com/case-study) to learn more.
+[Read the case study](https://teamhypha.com/case-study) to learn more.
 
 ## Hypha Components:
 1. The [Hypha Backend](https://github.com/Team-Hypha/hypha-backend) allows users to deploy backend compnents to AWS Elastic Container Service or via Docker Compose.
